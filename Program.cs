@@ -75,6 +75,9 @@ namespace dictionaryOfWords
       happyWord.Add("Definition", "feeling or showing pleasure or contentment");
       happyWord.Add("Part Of Speech", "adjective");
       happyWord.Add("Examaple Sentence", "I am happy to learn C#!");
+
+      dictionaryOfWords.Add(happyWord);
+
       /*
           Iterate your list of dictionaries and output the data, You can use the two foreach() loops below to help you start your iteration.
 
@@ -85,16 +88,14 @@ namespace dictionaryOfWords
               example sentence: I am excited to learn C#!
       */
 
-      // Iterate the List of Dictionaries
-      foreach ()
-      {
-        // Iterate the KeyValuePairs of the Dictionary
-        foreach ()
-        {
-          Console.WriteLine($"{wordData.Key}: {wordData.Value}");
-        }
-      }
-
+         // Iterate the List of Dictionaries
+            foreach (Dictionary<string, string> dictionary in dictionaryOfWords) {
+                // Iterate the KeyValuePairs of the Dictionary
+                Console.WriteLine("\n");
+                foreach (KeyValuePair<string, string> kvp in dictionary) {
+                    Console.WriteLine ($"{kvp.Key}: {kvp.Value}");
+                }
+            }
 
 
 
