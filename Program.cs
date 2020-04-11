@@ -37,6 +37,7 @@ namespace dictionaryOfWords
       */
       foreach (KeyValuePair<string, string> word in wordsAndDefinitions)
       {
+          Console.WriteLine($"The definition of {word.Key} is {word.Value}");
       }
 
 
