@@ -25,6 +25,10 @@ namespace dictionaryOfWords
           words and then output them to the console
       */
 
+        Console.WriteLine(wordsAndDefinitions["Awesome"]);
+        Console.WriteLine(wordsAndDefinitions["Taco"]);
+        Console.WriteLine(wordsAndDefinitions["Ball"]);
+
       /*
           Below, loop over the wordsAndDefinitions dictionary to get the following output:
               The definition of (WORD) is (DEFINITION)
