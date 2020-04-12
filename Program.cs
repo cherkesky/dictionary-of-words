@@ -93,7 +93,8 @@ namespace dictionaryOfWords
                 // Iterate the KeyValuePairs of the Dictionary
                 Console.WriteLine("\n");
                 foreach (KeyValuePair<string, string> kvp in dictionary) {
-                    Console.WriteLine ($"{kvp.Key}: {kvp.Value}");
+                    Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+
                 }
             }
 

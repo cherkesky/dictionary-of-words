@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/bin/Release/netcoreapp3.1/dicofwords.deps.json
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/bin/Release/netcoreapp3.1/dicofwords.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/bin/Release/netcoreapp3.1/dicofwords.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/bin/Release/netcoreapp3.1/dicofwords.dll
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/bin/Release/netcoreapp3.1/dicofwords.pdb
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.dll
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.pdb
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.genruntimeconfig.cache
+/Users/cherkesky/workspace/csharp/exercises/dicofwords/obj/Release/netcoreapp3.1/dicofwords.csprojAssemblyReference.cache
